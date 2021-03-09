@@ -1,4 +1,4 @@
-# Exercice #2 - Solution
+# Projet Signets avec Firebase
 
-Solution modèle de l'exercice #2 du cours 582-640.
-Formatage de l'application *Signets* utilisant **Sass** et **Material-UI**.
+Projet Signet fait en classe de Veille Technologique.
+Formatage de l'application *Signets* utilisant **Sass** et **Material-UI** et **Firebase**.
